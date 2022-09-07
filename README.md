@@ -22,6 +22,8 @@ Interesting project ideas that I will look into in the very near future
 - :twisted_rightwards_arrows: High entropy random number generation using Modular Entropy Multiplication  
 
 ### Contact me:
-Feel free to contact me on Session
+Feel free to contact me on Session(https://getsession.org)  
+Session ID: 05069b4e5e55fbccca90825fd6ecb2957bffce582c43a9eb52add069a69dddc22a  
+<img src="https://github.com/SeanVisser1998/SeanVisser1998/blob/main/05069b4e5e55fbccca90825fd6ecb2957bffce582c43a9eb52add069a69dddc22a.png" width=250/>  
 
 

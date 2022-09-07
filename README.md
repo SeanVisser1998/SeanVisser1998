@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**SeanVisser1998/SeanVisser1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+I'm a network & security engineer from the Netherlands
+- :mortar_board: Currently studying HBO-ICT Network & Security Engineering at Hanzehogeschool Groningen
+- :seedling: Exploring cryptography and random number generation
+- :zap: In my free time, I like to design scalable secure networks

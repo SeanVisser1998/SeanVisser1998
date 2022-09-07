@@ -16,7 +16,7 @@ I'm a network & security engineer from the Netherlands
 
 ### Interesting projects:
 Interesting project ideas that I will look into in the very near future  
-- :email: Self-hosted PGP mail server  
+- :email: Self-hosted E2EE mail server  
 - :lock: ZeroConfig basic hardening of Ubuntu instances
 - :globe_with_meridians: Apache Onion Service on Ubuntu  
 - :twisted_rightwards_arrows: High entropy random number generation using Modular Entropy Multiplication  

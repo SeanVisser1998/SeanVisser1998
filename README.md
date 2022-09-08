@@ -25,5 +25,11 @@ Interesting project ideas that I will look into in the very near future
 Feel free to contact me on Session(https://getsession.org)  
 Session ID: 05069b4e5e55fbccca90825fd6ecb2957bffce582c43a9eb52add069a69dddc22a  
 <img src="https://github.com/SeanVisser1998/SeanVisser1998/blob/main/05069b4e5e55fbccca90825fd6ecb2957bffce582c43a9eb52add069a69dddc22a.png" width=250/>  
+  
+Or feel free to send me an email at: seanvisser1998@protonmail.com  
+You can encrypt messages send to me using PGP/MIME.  
+
+My [a PGP key](publickey.seanvisser1998@protonmail.com-26b0f9c6675ea7ccd0bc1ea0cbc440bc69aa6c85.asc)  
+Fingerprint: 26b0f9c6675ea7ccd0bc1ea0cbc440bc69aa6c85
 
 

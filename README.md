@@ -29,7 +29,7 @@ Session ID: 05069b4e5e55fbccca90825fd6ecb2957bffce582c43a9eb52add069a69dddc22a
 Or feel free to send me an email at: seanvisser1998@protonmail.com  
 You can encrypt messages send to me using PGP/MIME.  
 
-My [a PGP key](publickey.seanvisser1998@protonmail.com-26b0f9c6675ea7ccd0bc1ea0cbc440bc69aa6c85.asc)  
+My [PGP key](publickey.seanvisser1998@protonmail.com-26b0f9c6675ea7ccd0bc1ea0cbc440bc69aa6c85.asc)  
 Fingerprint: 26b0f9c6675ea7ccd0bc1ea0cbc440bc69aa6c85
 
 

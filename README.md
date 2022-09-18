@@ -14,6 +14,9 @@ I'm a network & security engineer from the Netherlands
 - :seedling: Exploring cryptography and random number generation
 - :zap: In my free time, I like to design scalable secure networks
 
+### Current project:
+:lock: WireGuard VPN with DNS-over-TLS 
+
 ### Interesting projects:
 Interesting project ideas that I will look into in the very near future  
 - :email: Designing E2EE webmail service  

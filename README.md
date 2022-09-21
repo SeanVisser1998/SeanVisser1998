@@ -33,7 +33,7 @@ Or feel free to send me an email at: seanvisser1998@protonmail.com
 You can encrypt messages send to me using PGP/MIME.  
 
 My [PGP key](https://raw.githubusercontent.com/SeanVisser1998/SeanVisser1998/main/publickey.seanvisser1998%40protonmail.com-26b0f9c6675ea7ccd0bc1ea0cbc440bc69aa6c85.asc)  
-Fingerprint: 26b0f9c6675ea7ccd0bc1ea0cbc440bc69aa6c85 
+Fingerprint: 26b0f9c6675ea7ccd0bc1ea0cbc440bc69aa6c85  
 SHA3-512: 75ce22cd115e77456892f1b0b38be8d8acf42a19b4034868a8e250c5e2a5c446b09c9a25f0902926a3583d1745165474e3d08b462579184747cbe34dc30b600f
 
 

@@ -15,12 +15,11 @@ I'm a network & security engineer from the Netherlands
 - :zap: In my free time, I like to design scalable secure networks
 
 ### Current project:
-:lock: WireGuard VPN with DNS-over-TLS 
+- :lock: Automated basic hardening of Ubuntu instances using cloud-init
 
 ### Interesting projects:
 Interesting project ideas that I will look into in the very near future  
 - :email: Designing E2EE webmail service  
-- :lock: Automated basic hardening of Ubuntu instances using cloud-init
 - :globe_with_meridians: Apache Onion Service on Ubuntu  
 - :twisted_rightwards_arrows: High entropy random number generation using Modular Entropy Multiplication  
 
